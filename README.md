@@ -5,7 +5,7 @@
 ---
 
 ### 💡 About Me  
-I’m a **Full-Stack Developer** with a strong focus on **PHP** and **Laravel**, dedicated to building efficient, secure, and user-friendly web applications.  
+I’m a **Full-Stack Developer** with a strong focus on **PHP** and **Laravel**, dedicated to building efficient, secure, and user-friendly web application products.  
 My passion lies in turning ideas into reliable digital solutions that make a meaningful impact.  
 
 I’m always improving my skills in backend development, RESTful APIs, and frontend design — combining functionality with simplicity.
